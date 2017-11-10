@@ -1,0 +1,49 @@
+.note{
+	background-color: white;
+	border: solid 1px #ccc;
+	padding: 25px;
+	width: 600px;
+	height: 190px;
+	overflow: auto;
+	margin-top: 10px;
+	float: left;
+}
+
+.pin{
+	background-image: url('../img/cerrar.png');
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	float: right;
+}
+
+body{
+	background-color: #F5F5F5;
+}
+
+.glyphicon{
+	color: #28a9e0;
+	font-size: 200%;
+
+}
+
+.navbar-brand>img {
+	width: 70%;
+}
+
+.usuario{
+	width: 40%;
+	margin-top: 10px;
+}
+
+.tweet{
+	width: 100px;
+	background-color: #28a9e0;
+	border-style: none;
+}
+
+#mytext{
+	width: 300px;
+
+}
+
